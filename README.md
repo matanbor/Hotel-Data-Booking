@@ -1,0 +1,2 @@
+# Hotel-Data-Booking
+Here is a data set about hotel booking demand which I would like to explore and to use machine learning methodology. This data set includes features about the type of hotel booked, the lead time before the vacation, the number of stays and etc. In this project, you will see how I approach the data set and analyze it. If you have any opinion or feedback, you are more than welcome to share.
